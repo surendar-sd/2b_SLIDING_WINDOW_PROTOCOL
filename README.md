@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+NAME: S.D. Surendar
+Reg No.: 212224110052
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
